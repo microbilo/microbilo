@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @microbilo
 - 👀 I’m interested in ...blockchain & crypto
-- 🌱 I’m currently learning ... blockchain &  crypto
+- 🌱 I’m currently learning ... blockchain & crypto development/building.
 - 💞️ I’m looking to collaborate on ... Web3 projects
 - 📫 How to reach me ... via email: microbilocom@gmail.com
 
